@@ -1,0 +1,23 @@
+#navbar {
+    
+    height: 60px;
+    width: 100%;
+    background-color:aliceblue
+}
+
+#nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    
+    margin-left: 900px;
+    /* background-color: lavender; */
+    
+   
+}
+
+#nav p {
+    margin-right: 2rem;
+    color: indigo;
+}
